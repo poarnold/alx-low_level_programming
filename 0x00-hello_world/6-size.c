@@ -6,8 +6,7 @@
  * Return: Always
  */
 int main(void)
-{	
-	char charType;
+{	char charType;
 	int intType;
 	float floatType;
 	long long  longlongInt;
